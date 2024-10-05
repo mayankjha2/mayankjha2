@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankjha2
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning ML and Asp.Net
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning ML and Data Engineer
  
 
 
